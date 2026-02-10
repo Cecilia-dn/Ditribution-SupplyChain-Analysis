@@ -12,8 +12,6 @@ Insights and recommendations are provided on the following key areas:
 
 - **Supplier Risk Assessment**: Evaluation of supplier concentration, lead times, and geographic distribution to identify operational vulnerabilities.
 
-- **Inventory Management**: Assessment of stock levels, reorder patterns, and coverage to optimize working capital.
-
 - **Route Comparisons**: Analysis of Sea vs. Air shipping routes and their impact on lead times and costs.
 
 An interactive Power BI dashboard can be downloaded [here].
