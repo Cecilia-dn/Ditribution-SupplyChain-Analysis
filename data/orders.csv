@@ -1,0 +1,48 @@
+OrderID,SupplierID,key_id,RawMaterial,Order_Quantity
+O-01,S-5,48,Polypropylene,175
+O-02,S-2,81,Silicon Chips,120
+O-03,S-10,30,Nickel,178
+O-04,S-5,41,Polyethylene,87
+O-05,S-2,41,Polyethylene,88
+O-06,S-7,97,Thread,54
+O-07,S-4,53,Recycled Plastic,214
+O-08,S-3,1,Carbon Black,166
+O-09,S-10,53,Recycled Plastic,192
+O-10,S-6,81,Synthetic Dye,93
+O-11,S-5,9,Coal,104
+O-12,S-7,48,Polypropylene,129
+O-13,S-5,48,Polypropylene,154
+O-14,S-1,9,Coal,111
+O-15,S-7,30,Nickel,178
+O-16,S-3,22,Iron Ore,142
+O-17,S-9,30,Nickel,174
+O-18,S-7,22,Iron Ore,142
+O-19,S-6,41,Polyethylene,81
+O-20,S-9,30,Nickel,174
+O-21,S-4,74,Scrap Metal,154
+O-22,S-5,30,Nickel,171
+O-23,S-2,81,Silicon Chips,98
+O-24,S-1,53,Recycled Plastic,197
+O-25,S-6,16,Glass Screen,95
+O-26,S-4,48,Polypropylene,130
+O-27,S-8,22,Iron Ore,141
+O-28,S-4,65,Rubber,150
+O-29,S-5,74,Scrap Metal,152
+O-30,S-9,30,Nickel,174
+O-31,S-2,81,Silicon Chips,99
+O-32,S-2,53,Recycled Plastic,193
+O-33,S-10,1,Carbon Black,162
+O-34,S-5,81,Silicon Chips,95
+O-35,S-10,53,Recycled Plastic,193
+O-36,S-1,81,Silicon Chips,98
+O-37,S-10,30,Nickel,169
+O-38,S-7,53,Recycled Plastic,190
+O-39,S-10,53,Recycled Plastic,190
+O-40,S-10,65,Rubber,150
+O-41,S-3,16,Glass Screen,93
+O-42,S-7,22,Iron Ore,137
+O-43,S-4,81,Synthetic Dye,95
+O-44,S-9,9,Coal,120
+O-45,S-10,53,Recycled Plastic,195
+O-46,S-7,22,Iron Ore,145
+O-47,S-8,16,Glass Screen,92

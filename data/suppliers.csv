@@ -1,0 +1,101 @@
+SupplierID,key_id,RawMaterial,SupplierName,Country,Route
+S-5,53,Recycled Plastic,Middle East Alloys,UAE,Sea
+S-5,48,Polypropylene,Middle East Alloys,UAE,Sea
+S-1,97,Thread,Global Polymers Ltd,USA,Sea
+S-4,81,Silicon Chips,Africa Steel Suppliers,South Africa,Sea
+S-10,41,Polyethylene,East Asia Plastics,Japan,Air
+S-2,81,Silicon Chips,Asian Metals Inc,China,Sea
+S-8,97,Thread,Australia Mining Corp,Australia,Sea
+S-3,1,Carbon Black,Euro Chemicals GmbH,Germany,Air
+S-10,30,Nickel,East Asia Plastics,Japan,Air
+S-5,41,Polyethylene,Middle East Alloys,UAE,Sea
+S-2,41,Polyethylene,Asian Metals Inc,China,Sea
+S-6,16,Glass Screen,Latin America Recyclers,Brazil,Sea
+S-7,97,Thread,India Textiles Co.,India,Air
+S-4,53,Recycled Plastic,Africa Steel Suppliers,South Africa,Sea
+S-3,1,Carbon Black,Euro Chemicals GmbH,Germany,Air
+S-10,53,Recycled Plastic,East Asia Plastics,Japan,Air
+S-6,81,Synthetic Dye,Latin America Recyclers,Brazil,Sea
+S-5,9,Coal,Middle East Alloys,UAE,Sea
+S-7,48,Polypropylene,India Textiles Co.,India,Air
+S-2,65,Rubber,Asian Metals Inc,China,Sea
+S-5,48,Polypropylene,Middle East Alloys,UAE,Sea
+S-8,81,Synthetic Dye,Australia Mining Corp,Australia,Sea
+S-8,9,Coal,Australia Mining Corp,Australia,Sea
+S-1,9,Coal,Global Polymers Ltd,USA,Sea
+S-4,9,Coal,Africa Steel Suppliers,South Africa,Sea
+S-7,30,Nickel,India Textiles Co.,India,Air
+S-1,74,Scrap Metal,Global Polymers Ltd,USA,Sea
+S-9,30,Nickel,Nordic Industrial Metals,Sweden,Sea
+S-3,22,Iron Ore,Euro Chemicals GmbH,Germany,Air
+S-9,30,Nickel,Nordic Industrial Metals,Sweden,Sea
+S-7,22,Iron Ore,India Textiles Co.,India,Air
+S-9,9,Coal,Nordic Industrial Metals,Sweden,Sea
+S-6,41,Polyethylene,Latin America Recyclers,Brazil,Sea
+S-9,30,Nickel,Nordic Industrial Metals,Sweden,Sea
+S-4,74,Scrap Metal,Africa Steel Suppliers,South Africa,Sea
+S-5,30,Nickel,Middle East Alloys,UAE,Sea
+S-2,81,Silicon Chips,Asian Metals Inc,China,Sea
+S-1,53,Recycled Plastic,Global Polymers Ltd,USA,Sea
+S-9,22,Iron Ore,Nordic Industrial Metals,Sweden,Sea
+S-6,16,Glass Screen,Latin America Recyclers,Brazil,Sea
+S-4,48,Polypropylene,Africa Steel Suppliers,South Africa,Sea
+S-5,81,Silicon Chips,Middle East Alloys,UAE,Sea
+S-8,22,Iron Ore,Australia Mining Corp,Australia,Sea
+S-5,30,Nickel,Middle East Alloys,UAE,Sea
+S-4,65,Rubber,Africa Steel Suppliers,South Africa,Sea
+S-5,74,Scrap Metal,Middle East Alloys,UAE,Sea
+S-6,48,Polypropylene,Latin America Recyclers,Brazil,Sea
+S-9,30,Nickel,Nordic Industrial Metals,Sweden,Sea
+S-8,1,Carbon Black,Australia Mining Corp,Australia,Sea
+S-2,81,Silicon Chips,Asian Metals Inc,China,Sea
+S-2,30,Nickel,Asian Metals Inc,China,Sea
+S-2,53,Recycled Plastic,Asian Metals Inc,China,Sea
+S-5,81,Silicon Chips,Middle East Alloys,UAE,Sea
+S-5,22,Iron Ore,Middle East Alloys,UAE,Sea
+S-9,16,Glass Screen,Nordic Industrial Metals,Sweden,Sea
+S-3,81,Silicon Chips,Euro Chemicals GmbH,Germany,Air
+S-10,1,Carbon Black,East Asia Plastics,Japan,Air
+S-6,41,Polyethylene,Latin America Recyclers,Brazil,Sea
+S-6,65,Rubber,Latin America Recyclers,Brazil,Sea
+S-1,81,Synthetic Dye,Global Polymers Ltd,USA,Sea
+S-7,30,Nickel,India Textiles Co.,India,Air
+S-5,81,Silicon Chips,Middle East Alloys,UAE,Sea
+S-6,74,Scrap Metal,Latin America Recyclers,Brazil,Sea
+S-1,97,Thread,Global Polymers Ltd,USA,Sea
+S-8,74,Scrap Metal,Australia Mining Corp,Australia,Sea
+S-9,74,Scrap Metal,Nordic Industrial Metals,Sweden,Sea
+S-7,74,Scrap Metal,India Textiles Co.,India,Air
+S-1,9,Coal,Global Polymers Ltd,USA,Sea
+S-10,1,Carbon Black,East Asia Plastics,Japan,Air
+S-4,1,Carbon Black,Africa Steel Suppliers,South Africa,Sea
+S-7,53,Recycled Plastic,India Textiles Co.,India,Air
+S-1,22,Iron Ore,Global Polymers Ltd,USA,Sea
+S-3,53,Recycled Plastic,Euro Chemicals GmbH,Germany,Air
+S-10,53,Recycled Plastic,East Asia Plastics,Japan,Air
+S-10,81,Synthetic Dye,East Asia Plastics,Japan,Air
+S-1,41,Polyethylene,Global Polymers Ltd,USA,Sea
+S-6,1,Carbon Black,Latin America Recyclers,Brazil,Sea
+S-7,41,Polyethylene,India Textiles Co.,India,Air
+S-1,81,Silicon Chips,Global Polymers Ltd,USA,Sea
+S-4,65,Rubber,Africa Steel Suppliers,South Africa,Sea
+S-10,30,Nickel,East Asia Plastics,Japan,Air
+S-7,53,Recycled Plastic,India Textiles Co.,India,Air
+S-8,53,Recycled Plastic,Australia Mining Corp,Australia,Sea
+S-8,65,Rubber,Australia Mining Corp,Australia,Sea
+S-10,53,Recycled Plastic,East Asia Plastics,Japan,Air
+S-10,65,Rubber,East Asia Plastics,Japan,Air
+S-3,16,Glass Screen,Euro Chemicals GmbH,Germany,Air
+S-7,22,Iron Ore,India Textiles Co.,India,Air
+S-4,81,Synthetic Dye,Africa Steel Suppliers,South Africa,Sea
+S-2,65,Rubber,Asian Metals Inc,China,Sea
+S-2,1,Carbon Black,Asian Metals Inc,China,Sea
+S-4,65,Rubber,Africa Steel Suppliers,South Africa,Sea
+S-9,9,Coal,Nordic Industrial Metals,Sweden,Sea
+S-10,53,Recycled Plastic,East Asia Plastics,Japan,Air
+S-5,81,Silicon Chips,Middle East Alloys,UAE,Sea
+S-8,81,Silicon Chips,Australia Mining Corp,Australia,Sea
+S-1,65,Rubber,Global Polymers Ltd,USA,Sea
+S-7,22,Iron Ore,India Textiles Co.,India,Air
+S-6,16,Glass Screen,Latin America Recyclers,Brazil,Sea
+S-8,16,Glass Screen,Australia Mining Corp,Australia,Sea
