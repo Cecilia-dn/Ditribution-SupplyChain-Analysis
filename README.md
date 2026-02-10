@@ -93,19 +93,6 @@ Below is the overview page from the Power BI dashboard and more examples are inc
 
 ---
 
-## Inventory Management
-
-- **Multiple products show "Reorder" status**, indicating stock levels have fallen below safe thresholds considering lead times and weekly usage rates. This suggests either demand forecasting issues or inadequate safety stock policies.
-
-- **Stock coverage varies significantly by material**, with some products having weeks of inventory while others are critically low. Standardizing coverage policies based on lead time could improve working capital efficiency.
-
-- **High-revenue materials like Nickel and Recycled Plastic** require careful monitoring given their importance to total revenue. Stockouts of these products would have outsized business impact.
-
-- **Reorder levels may be set too conservatively** for some products, tying up excess working capital. A review of safety stock calculations using actual lead time and demand variability data is recommended.
-
-- **Weekly usage patterns show consistency** for top products, enabling more accurate forecasting and automated reorder triggers.
-
----
 
 ## Route Comparisons
 
@@ -119,5 +106,8 @@ Below is the overview page from the Power BI dashboard and more examples are inc
 
 - **Route diversification provides operational resilience** - if air freight becomes necessary for rush orders, the infrastructure exists for most materials.
 
----
+- **Sea**
+![Supplier Distribution](images/sea.png)
+- **Air**
+![Supplier Distribution](images/air.png)
 
